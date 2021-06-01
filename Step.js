@@ -1,7 +1,7 @@
 /*
- * @Author: ckcode 
+ * @Author: https://github.com/Squaregentleman/mimotion 
  * @Date: 2021-06-01 15:41:48 
- * @Last Modified by: mikey.zhaopeng
+ * @Last Modified by: ckcode
  * @Last Modified time: 2021-06-01 15:45:05
  */
 const axios = require('axios');
